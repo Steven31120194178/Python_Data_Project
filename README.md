@@ -21,11 +21,11 @@ df_skills_perc['skill_percent'] = 100 * df_skills_perc['country_count'] / df_ski
 ```
 ## Results
 - For Matplotlib 
-![Visualization of Top Countries for Data Role using Matplotlib](My%20Project\output.png)
+![Visualization of Top Countries for Data Role using Matplotlib](My%20Project/output.png)
 
 ------------
 - For Using Seaborn with the percentages for each bar
-![Visualization of Top Countries for Data Role using Seaborn](My%20Project\output2.png)
+![Visualization of Top Countries for Data Role using Seaborn](My%20Project/output2.png)
 
 # Insights
 The top hiring countries for six popular data job roles, offering insight into the global demand for data professionals.  
