@@ -120,7 +120,7 @@ View my notebook with detailed steps here:
 
 - Tableau ($93K) and SQL Server ($93K) also offer competitive salaries.
 
-### Observations:
+### Observations:  
 
 - Analysts earn less overall than scientists (~$90K range vs. ~$130K+).
 
@@ -128,6 +128,6 @@ View my notebook with detailed steps here:
 
 - Python stands out for both demand and salary potential.
 
-![Chart](My%20Project/output5.png)
+![Chart](My%20Project/output5.PNG)
 
 
