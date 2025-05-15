@@ -128,6 +128,6 @@ View my notebook with detailed steps here:
 
 - Python stands out for both demand and salary potential.
 
-![Chart](My%20Project/Compare%20Data%20Scientist%20and%20Analyst.PNG)
+![Chart](My%20Project/output5.png)
 
 
