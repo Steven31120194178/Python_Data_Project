@@ -1,6 +1,6 @@
 # Analysis 
 
-## 1. What are the top 5 countries for each of the top 6 data roles?
+## <span style="color:orange; font-weight:bold">1. What are the top 5 countries for each of the top 6 data roles?</span>
 
 In order to do this, I filtered out those positions, and obtain the top5 countries of these top 6 data roles. And, to create a dataframe with the job_country, job_title_short and country_count. 
 
@@ -42,7 +42,8 @@ The United Kingdom, France, and Germany frequently appear among the top five, hi
 The visualization confirms the United States as the central hub for data jobs, with India and Western Europe following as major players. Senior and specialized roles are more concentrated, while entry-to-mid level roles like Data Analyst are more widespread. Emerging appearances from countries like Sudan may warrant further investigation, as they could indicate interesting developments in regional data ecosystems.  
 
 ---
-# Find the trending for Top 7 Data Roles in the US 
+## <span style="color:orange; font-weight:bold">2. Find the trending for Top 7 Data Roles in the US </span>
+
 View my notebook with detailed steps here:  
 [3_Data_Role_Trend.ipynb](My%20Project\3_Data_Role_Trend.ipynb)
 
@@ -74,3 +75,59 @@ Software Engineer saw a sharp dip in September (~
 ### 3. Lowest-Paid Role
 Senior Data Analyst (pink line) has the lowest salary trend, staying within the 
 125K range across the year.
+
+
+## <span style="color:orange; font-weight:bold">3. What is the most optimal skill to learn for Data Scientist & Data Analyst?</span>
+
+View my notebook with detailed steps here:  
+[5_Data_Role_Trend.ipynb](My%20Project\5_Optimal_Skills.ipynb)
+
+## Methodology
+1. Group skills to determine median salary and likelihood of being in posting
+2. Visualize median salary vs percent skill demand
+3. Compare both Data Jobs to see the skill demand and the salary difference
+
+![Chart](My%20Project/output4.png)
+### 🧪 Data Scientist Overview
+### High-Demand Skills:
+
+- Python (73%) and SQL (54%) are the most in-demand, with median salaries of ~$133K and ~$134K respectively.
+
+- R (45%) and Tableau (21%) are also fairly common.
+
+### High-Paying Skills:
+
+- TensorFlow ($150K) stands out with the highest median salary, although it appears in only 10% of jobs.
+
+- Spark ($136K) and AWS ($134K) also offer high salaries and moderate demand (15-16%).
+
+### Observations:
+
+- A trade-off between demand and salary. More niche, specialized skills like TensorFlow and Spark are less frequently required but pay more.
+
+- Widely used skills like Python and SQL provide a balance of good pay and high demand.
+
+### 📊 Data Analyst Overview
+### High-Demand Skills:
+
+- SQL (57%) and Excel (41%) dominate in job requirements.
+
+- Python (32%), Tableau (31%), and R (20%) are also fairly popular.
+
+### High-Paying Skills:
+
+- Python ($98K) and Oracle ($97K) are the top-paying, though Oracle is only in 6% of jobs.
+
+- Tableau ($93K) and SQL Server ($93K) also offer competitive salaries.
+
+### Observations:
+
+- Analysts earn less overall than scientists (~$90K range vs. ~$130K+).
+
+- While Excel is widely used, it correlates with lower salaries (~$85K).
+
+- Python stands out for both demand and salary potential.
+
+![Chart](My%20Project/Compare%20Data%20Scientist%20and%20Analyst.PNG)
+
+
