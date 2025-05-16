@@ -1,3 +1,26 @@
+# <span style="color:lightgreen;font-weight:bold">Overview</span>
+
+### Welcome to My Project of Python, focusing on the skills about how to become a Data Analyst using Python. This project was to apply my skill of Python to develop charts and graphs from various dataframes. Also, this project was created out of a desire to navigate and understand the job market more effectively. 
+
+### The datasets are from Luke Barousse's Python Course which provides a foundation for my analysis with detailed information to apply Python skills as a Data Analyst. I explored key questions such as the most demanding skills, type of data jobs, salary trends, etc by using different method to showcase my work. 
+
+## Questions:
+1. Exploratory Data Analyst example in the UK
+2. What are the top 5 countries for each of the top 6 data roles?
+3. Find the trending for Top 7 Data Roles in the US
+4. How well do the Top 6 Data Jobs paid in the US?
+5. What is the most optimal skill to learn for Data Scientist & Data Analyst?
+
+## Main tools that I used
+- Python (Coding Language)  
+       - Pandas Library  
+       - MatPlotlib Library  
+       - Seaborn Library  
+       
+- Jupyter Notebooks
+- Visual Studio Code
+- Git & Github
+
 # Projects Analysis 
 
 ## <span style="color:orange; font-weight:bold">1. Exploratory Data Analyst example in the UK</span>
