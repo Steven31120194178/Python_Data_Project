@@ -3,6 +3,7 @@
 ### Welcome to My Project of Python, focusing on the skills about how to become a Data Analyst using Python. This project was to apply my skill of Python to develop charts and graphs from various dataframes. Also, this project was created out of a desire to navigate and understand the job market more effectively. 
 
 ### The datasets are from Luke Barousse's Python Course which provides a foundation for my analysis with detailed information to apply Python skills as a Data Analyst. I explored key questions such as the most demanding skills, type of data jobs, salary trends, etc by using different method to showcase my work. 
+[Luke Barousse Python Course Source](https://github.com/lukebarousse/Python_Data_Analytics_Course)
 
 ## Questions:
 1. Exploratory Data Analyst example in the UK
@@ -12,13 +13,13 @@
 5. What is the most optimal skill to learn for Data Scientist & Data Analyst?
 
 ## Main tools that I used
-- Python (Coding Language)  
-       - Pandas Library  
-       - MatPlotlib Library  
-       - Seaborn Library  
-       
-- Jupyter Notebooks
-- Visual Studio Code
+- Python (Coding Language): Combines powerful data processing capabilities with ease of use
+       - NumPy Library - for numerical operations and arrays
+       - Pandas Library - for data manipulation and analysis
+       - MatPlotlib Library - for data visualization
+       - Seaborn Library -  better customization than matplotlib with unique tools for it
+- Jupyter Notebooks: An useful tool for Data Analyst that allows us to code and see the result easily
+- Visual Studio Code: A powerful, lightweight, and highly customizable code editor that works great for a wide range of tasks
 - Git & Github
 
 # Projects Analysis 
