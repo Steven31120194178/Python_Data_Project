@@ -13,11 +13,11 @@
 5. What is the most optimal skill to learn for Data Scientist & Data Analyst?
 
 ## Main tools that I used
-- Python (Coding Language): Combines powerful data processing capabilities with ease of use
-       - NumPy Library - for numerical operations and arrays
-       - Pandas Library - for data manipulation and analysis
-       - MatPlotlib Library - for data visualization
-       - Seaborn Library -  better customization than matplotlib with unique tools for it
+- Python (Coding Language): Combines powerful data processing capabilities with ease of use  
+       - NumPy Library - for numerical operations and arrays  
+       - Pandas Library - for data manipulation and analysis  
+       - MatPlotlib Library - for data visualization  
+       - Seaborn Library -  better customization than matplotlib with unique tools for it  
 - Jupyter Notebooks: An useful tool for Data Analyst that allows us to code and see the result easily
 - Visual Studio Code: A powerful, lightweight, and highly customizable code editor that works great for a wide range of tasks
 - Git & Github
